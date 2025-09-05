@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-   <h1>This is main branch</h1> 
+   <h1>Initial commit on main</h1> 
 </body>
 </html>
