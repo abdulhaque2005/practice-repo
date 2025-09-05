@@ -7,6 +7,6 @@
 </head>
 <body>
    <h1>Initial commit on main</h1> 
-   <h1>Adding a new lines</h1>
+   <h1>New changes</h1>
 </body>
 </html>
